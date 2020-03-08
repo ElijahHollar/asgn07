@@ -8,7 +8,7 @@
 <html>
 <head>
 	<title>OOP Exercise</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css"  />
+	<link rel ="stylesheet" type="text/css" href="../css/styles.css">
 </head>
 
 <body>
@@ -20,8 +20,22 @@
 	$height = $_POST["height"];
 	$length = $_POST["length"];
 	$width = $_POST["width"];
+
+	include_once("inc-rectangle-object.php");
+
+	$longWall = new Rectangle;
+	$shortWall = new Rectangle;
+
+	$longWall->setX($height);
+	$longWall->setY($width);
+
+	$shortWall->setX($height);
+	$shortWall->setY($length);
+
+	$longWallArea = $longWall->getArea();
+	$shortWallArea = $shortWall->getArea();
 	
-	
+	$totalArea = $longWallArea * 2 + $shortWallArea * 2;
 	
 	print("The total area is $totalArea square feet.");
 ?>

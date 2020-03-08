@@ -1,8 +1,8 @@
 <?php
 class Rectangle
 {
-	private $x;
-	private $y;
+	protected $x;
+	protected $y;
 
 	public function getX()
 	{

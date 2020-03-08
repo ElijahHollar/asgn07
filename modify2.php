@@ -25,7 +25,7 @@
 <html>
 <head>
 	<title>Modify2</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css">
+	<link rel ="stylesheet" type="text/css" href="../css/styles.css">
 </head>
 <body>
 

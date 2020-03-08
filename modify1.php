@@ -18,7 +18,7 @@
 <html>
 <head>
 	<title>Modify 1</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css"  />
+	<link rel ="stylesheet" type="text/css" href="../css/styles.css">
 </head>
 <body>
 <?php

@@ -11,7 +11,7 @@
 <html>
 <head>
 	<title>Wage Report</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css">
+	<link rel ="stylesheet" type="text/css" href="../css/styles.css">
 </head>
 <body>
 	<h1>WAGE REPORT</h1>

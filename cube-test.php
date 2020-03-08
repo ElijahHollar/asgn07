@@ -8,7 +8,7 @@
 <html>
 <head>
 	<title>Test Cube Class</title>
-	<link rel ="stylesheet" type="text/css" href="sample.css">
+	<link rel ="stylesheet" type="text/css" href="../css/styles.css">
 </head>
 <body>
 	<h1>TEST CUBE CLASS</h1>
