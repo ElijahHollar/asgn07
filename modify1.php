@@ -44,6 +44,7 @@
 	print ("<p>Weekly Pay for ".$emp2->getFirstName()." ". $emp2->getLastName().": $".$emp2->getWeeklyPay()."</p>");
 	print ("<p>Weekly Pay for ".$emp3->getFirstName()." ". $emp3->getLastName().": $".$emp3->getWeeklyPay()."</p>");
 ?>
+<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>
 

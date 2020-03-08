@@ -34,6 +34,7 @@
 
 	print ("<p>Annual Pay for ".$emp1->getFirstName()." ". $emp1->getLastName().": $".$emp1->getAnnualPay()."</p>");
 ?>
+<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>
 

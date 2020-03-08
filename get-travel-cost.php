@@ -36,5 +36,6 @@
 
     print("<p>Air fare to ".$travelCosts->getDestination()." for ".$travelCosts->getNumTravelers()." travelers is $".number_format($travelCosts->getAirFare(), 2)." and the cost of a hotel is $".number_format($travelCosts->getHotelCost(), 2).".</p>");
   ?>
+  <p><a href="index.php">Return to Asgn07 Index Page</a></p>
   </body>
 </html>

@@ -31,5 +31,6 @@
 
   print("<p>You are ".$cityDistance->getDistance()." miles from ".$cityDistance->getDestination().".</p>");
 ?>
+<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>

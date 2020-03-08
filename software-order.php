@@ -42,5 +42,6 @@
 			<tr><td>TOTAL:</td><td>$".number_format($total, 2)."</td></tr>
 			</table>");
 ?>
+<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>

@@ -47,6 +47,6 @@
 		print ("<p>ERROR: Employee ID, $id, could not be found.");
 	}
 	?>
-
+<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>

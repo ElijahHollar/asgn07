@@ -28,5 +28,6 @@
 	$emp1->setHourlyWage(15.25);
 	print ("<p>The weekly pay for employee #".$emp1->getID()." is $".$emp1->getWeeklyPay(40)."</p>");
 	?>
+	<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>

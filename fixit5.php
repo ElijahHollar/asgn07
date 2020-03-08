@@ -35,5 +35,6 @@
 			<tr><td>Weekly Pay</td><td>".$emp1->getWeeklyPay(40)."</td></tr>
 			</table>");
 	?>
+	<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>

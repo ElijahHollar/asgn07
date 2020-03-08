@@ -26,6 +26,7 @@
 
 	print ("<p>The employee's ID is ".$emp1->getID()."</p>");
 	?>
+	<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>
 

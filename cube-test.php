@@ -40,5 +40,6 @@
 			<tr><td>2 x 4 x 10</td><td>".$cube3->getArea()."</td><td>".$cube3->getVolume()."</td></tr>
 			</table>");
 	?>
+	<p><a href="index.php">Return to Asgn07 Index Page</a></p>
 </body>
 </html>
